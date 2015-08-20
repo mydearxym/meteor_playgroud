@@ -80,6 +80,7 @@
         "UI": false,
         "_": false,
         "Deps": false,
+        "Mongo": false,
         // Atmosphere packages
         "SimpleSchema": false,
         "AccountsEntry": false,
@@ -93,7 +94,8 @@
         "require": false,
         "suite": false,
         "test": false,
-        "emit": false
+        "emit": false,
         // App specific globals
+        "Posts": true
     }
 }
